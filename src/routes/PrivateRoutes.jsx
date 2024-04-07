@@ -20,3 +20,4 @@ if(loading){
 };
 
 export default PrivateRoutes;
+
